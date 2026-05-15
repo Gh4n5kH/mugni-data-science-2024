@@ -1,1 +1,1 @@
-# mugni-data-science-2024
+# data-science-2024
